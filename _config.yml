@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Programmatūras testu automatizācijas uzturēšanas resursu samazināšanas izpēte
 
 # Your name to show in the footer
-author: Some Person
+author: Armands Kļaviņš
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Par Mani: "aboutme"
+  Resursi:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Saite Ar Informāciju: "https://ortus.rtu.lv"
 
 # --- Logo --- #
 
