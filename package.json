@@ -1,0 +1,25 @@
+{
+  "name": "aklavins.github.io",
+  "version": "1.0.0",
+  "description": "[![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKlavins/AKlavins.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKlavins/AKlavins.github.io/issues"
+  },
+  "homepage": "https://github.com/AKlavins/AKlavins.github.io#readme",
+  "devDependencies": {
+    "@percy/script": "^1.1.0"
+  }
+}
