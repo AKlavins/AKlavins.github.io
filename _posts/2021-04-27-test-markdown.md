@@ -12,7 +12,7 @@ Programmatūras testēšana ir būtiska un neatsverama, bet tajā pašā laikā 
 
 | Numurs | Nākamais numurs | Iepriekšējais numurs |
 | :------ |:--- | :--- |
-| 5 | 6 | 4 |
+| 100 | 6 | 4 |
 | 10 | 11 | 9 |
 | 7 | 8 | 6 |
 | 2 | 3 | 1 |
